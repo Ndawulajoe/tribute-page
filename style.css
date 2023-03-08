@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(199, 227, 227);
+    border-bottom: 300px;
+}
+header {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+  #image {
+    max-width: 30%;
+    /* height: auto; */
+    display: block;
+    margin-top: 10px;
+    border-radius: 50px;
+  }
+  
+  #text {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: justify;
+  }
+  
+  footer {
+    text-align: center;
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    border-radius: 5px;
+  }
